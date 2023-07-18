@@ -1,0 +1,101 @@
+
+
+.searchInput {
+   
+    padding: 5px;
+    border: none ;
+    outline: none;
+    font-size: 16px;
+    width:970px;
+    height: 38px;
+    background: var(--white, #FFF);
+      
+   
+  }
+  .heading{
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .input-icon {
+    /* Adjust spacing as needed */
+  
+  color: gray; /* Customize icon color */
+  height: 27px;
+  width: 27px;
+  }
+  .icon {
+    /* Adjust spacing as needed */
+  
+  color: gray; /* Customize icon color */
+  height: 22px;
+  width: 22px;
+  margin-right: 5px;
+  margin-left: 10px;
+  }
+  .search{
+    display: flex;
+    align-items: center;
+    background-color: white;
+   
+    width:970px;
+    height: 47px;
+    
+  }
+  .btn{
+    background-color: rgb(2, 112, 30);
+    color: white;
+    border: none;
+    height: 42px;
+    width: 135px;
+    border-radius: 8px;
+    margin: 15px;
+  }
+  .space{
+    display: flex;
+    margin: 25px;
+    justify-content: space-between;
+  }
+
+  .input{
+    border: none;
+    outline: none;
+    width: 375px;
+    height: 32px;
+   
+  }
+  .divinput{
+    display: flex;
+    align-items: center;
+    background-color: white;
+    width: 375px;
+    height: 32px;
+    border-radius: 8px;
+    margin: 4px;
+    padding: 5px;
+
+  }
+  
+  .image{
+    height: 32px;
+    width: 32px;
+
+  }
+  select{
+    border: none;
+    outline: none;
+  }
+  .centerr{
+    display: flex;
+    justify-content: center;
+  }
+  .bell{
+    height: 40px;
+    width: 40px;
+    
+    margin:0 8px 7px 10px ;
+  }
+  .formdiv{
+    margin: 25px;
+  }
+  
